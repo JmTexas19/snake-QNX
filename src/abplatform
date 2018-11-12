@@ -1,0 +1,2 @@
+DIRS = x86 armle
+ALLDIRS = x86 armle
